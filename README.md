@@ -1,5 +1,7 @@
 ## Overview
 
+[![Documentation Status](https://readthedocs.org/projects/click-cli-boilerplate/badge/?version=latest)](https://click-cli-boilerplate.readthedocs.io/en/latest/)
+
 This is a boilerplate project for development of a 
 [Click](https://click.palletsprojects.com/en/7.x/) cli application.
 It features the Python project source code layout, 
@@ -32,6 +34,8 @@ Using `sphinx` with the [`sphinx-click`](https://github.com/click-contrib/sphinx
 extension will make it possible to extract docs from the cli source code and generate nice HTML docs. 
 
 Run `cd docs && make html`.
+HTML documentation built from sources with `sphinx` is available at 
+[Read the Docs page](https://click-cli-boilerplate.readthedocs.io/en/latest/).
 
 ## Packaging
 
