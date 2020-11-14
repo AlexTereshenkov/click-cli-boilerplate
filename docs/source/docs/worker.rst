@@ -1,0 +1,5 @@
+Implementation
+==============
+
+.. automodule:: worker
+   :members:
